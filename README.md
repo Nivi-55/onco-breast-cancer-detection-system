@@ -15,7 +15,7 @@ AI-powered system for early detection of breast cancer using deep learning.
 - Streamlit
 
 ## ▶️ Run Locally
-git clone https://github.com/upendra8690/onco-breast-cancer-detection-system.git
+git clone https://github.com/Nivi-55/onco-breast-cancer-detection-system.git
 cd onco-breast-cancer-detection-system
 pip install -r requirements.txt
 streamlit run app.py
